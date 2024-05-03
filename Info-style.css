@@ -1,0 +1,27 @@
+.center-h4{
+    top: 5px;
+}
+.name1{
+    border: solid;
+    display: inline-block;
+    width: 300px;
+}
+body { 
+    font-family: 'Arial', sans-serif; 
+    background-color: #f0f0f0; 
+    color: #333; 
+    margin: 20px; 
+} 
+
+.name1 { 
+    max-width: 1000px; 
+    margin: 20px auto; 
+    padding: 45px; 
+    background-color: deepskyblue; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); 
+    border-radius: 12px; 
+} 
+
+*{
+    font-family: sf pro display, sans-serif;
+}
