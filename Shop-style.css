@@ -262,6 +262,12 @@ footer{
 @media all and (orientation: portrait) {
     .pc-v{
         display: none;
-        
+
+    }
+}
+
+@media all and (orientation: landscape) {
+    .ph-v{
+        display: none;
     }
 }
